@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<apartmentsForSale>
+    <apartment>
+        <numberOfRooms>1</numberOfRooms>
+        <address>Kyiv, Bulvar Perova, 48/128</address>
+        <floor>5</floor>
+        <cost>30000.0</cost>
+    </apartment>
+    <apartment>
+        <numberOfRooms>2</numberOfRooms>
+        <address>Kyiv, Bulvar Perova, 48/129</address>
+        <floor>5</floor>
+        <cost>32000.0</cost>
+    </apartment>
+</apartmentsForSale>
